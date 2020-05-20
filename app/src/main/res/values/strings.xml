@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sflix</string>
+    // Movie apps
+    <string name="recommends_you">Recommends you</string>
+    <string name="blockbuster_movies">Blockbuster Movies</string>
+    <string name="must_watch_movies">Must-Watch Movies</string>
+    <string name="top_hits_movies">Top Hits Movies</string>
+</resources>

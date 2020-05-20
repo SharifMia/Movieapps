@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45649133678",
+    "firebase_url": "https://movie-apps-dbaaa.firebaseio.com",
+    "project_id": "movie-apps-dbaaa",
+    "storage_bucket": "movie-apps-dbaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45649133678:android:efd687f706e08014c2a67f",
+        "android_client_info": {
+          "package_name": "dev.sharifmia.movieapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45649133678-2sebiasset0st4qka0ufbe2g1oha86e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXTixnTuCB4mIKUo1i9aZLqkO_Sq9iO-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45649133678-2sebiasset0st4qka0ufbe2g1oha86e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
